@@ -1,3 +1,5 @@
+**Power Bi**
+
 **Overview Section**:
                     Total Electricity Consumption: Shows the total electricity consumed over a selected period.
 **Average Daily Consumption**:  
